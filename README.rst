@@ -1,11 +1,11 @@
-Ce dépôt est la version française de la ressource d’Alex Waynor, « Que se passe-t-il quand… ».
+Ce dépôt est la version française de la ressource d’Alex Waynor, "Que se passe-t-il quand…".
 
 Alex Waynor n’est pas associé à ce travail et n’a pas révisé la traduction.
 ====================
 
 Ce dépôt est une tentative de répondre à l’éternelle question d’entretien :
 
-« Que se passe-t-il lorsque vous tapez google.com dans la barre d’adresse de votre navigateur et appuyez sur Entrée ? »
+"Que se passe-t-il lorsque vous tapez google.com dans la barre d’adresse de votre navigateur et appuyez sur Entrée ?"
 
 Sauf qu’au lieu de raconter l’histoire habituelle, nous allons essayer de répondre à cette question avec le plus de détails possible. Rien ne sera omis.
 
@@ -369,7 +369,7 @@ Les composants des navigateurs sont :
 * **Réseau :** Le réseau gère les appels réseau comme les requêtes HTTP, en utilisant différentes implémentations pour différentes plateformes derrière une interface indépendante de la plateforme.
 * **Backend de l'interface utilisateur :** Le backend de l'interface utilisateur est utilisé pour dessiner des widgets de base comme les listes déroulantes et les fenêtres. Ce backend expose une interface générique qui n'est pas spécifique à une plateforme. En dessous, il utilise les méthodes d'interface utilisateur du système d'exploitation.
 
-Analyse HTML
+Analyse Html
 ------------
 
 Le moteur de rendu commence à récupérer le contenu du document demandé depuis la couche réseau. Cela se fait généralement par morceaux de 8 Ko.
