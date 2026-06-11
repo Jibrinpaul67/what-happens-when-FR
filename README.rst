@@ -1,4 +1,4 @@
-Ce dépôt est la version française de la ressource d’Alex Waynor, « Que se passe-t-il quand… ».
+Ce dépôt est la version française de la ressource d’Alex Waynor, "Que se passe-t-il quand…".
 
 Alex Waynor n’est pas associé à ce travail et n’a pas révisé la traduction.
 ====================
