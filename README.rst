@@ -1,4 +1,6 @@
-What happens when...
+This repository is the French version of Alex Waynor's resource, "What happens when...".
+
+Alex Waynor is not related to this work and has not reviewed the translation.
 ====================
 
 This repository is an attempt to answer the age-old interview question "What
