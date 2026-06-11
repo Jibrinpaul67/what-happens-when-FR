@@ -369,7 +369,7 @@ Les composants des navigateurs sont :
 * **Réseau :** Le réseau gère les appels réseau comme les requêtes HTTP, en utilisant différentes implémentations pour différentes plateformes derrière une interface indépendante de la plateforme.
 * **Backend de l'interface utilisateur :** Le backend de l'interface utilisateur est utilisé pour dessiner des widgets de base comme les listes déroulantes et les fenêtres. Ce backend expose une interface générique qui n'est pas spécifique à une plateforme. En dessous, il utilise les méthodes d'interface utilisateur du système d'exploitation.
 
-Analyse HTML
+Analyse Html
 ------------
 
 Le moteur de rendu commence à récupérer le contenu du document demandé depuis la couche réseau. Cela se fait généralement par morceaux de 8 Ko.
