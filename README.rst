@@ -5,7 +5,7 @@ Alex Waynor n’est pas associé à ce travail et n’a pas révisé la traducti
 
 Ce dépôt est une tentative de répondre à l’éternelle question d’entretien :
 
-« Que se passe-t-il lorsque vous tapez google.com dans la barre d’adresse de votre navigateur et appuyez sur Entrée ? »
+"Que se passe-t-il lorsque vous tapez google.com dans la barre d’adresse de votre navigateur et appuyez sur Entrée ?"
 
 Sauf qu’au lieu de raconter l’histoire habituelle, nous allons essayer de répondre à cette question avec le plus de détails possible. Rien ne sera omis.
 
